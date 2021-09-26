@@ -11,5 +11,6 @@ public class gogo {
         System.out.println("push");
         System.out.println("githup pull");
         System.out.println("gitee pull");
+        System.out.println("gitee pull");
     }
 }
