@@ -5,5 +5,6 @@ public class gogo {
         System.out.println("666666");
         System.out.println("6666666");
         System.out.println("6666666");
+        System.out.println("6666666");
     }
 }
